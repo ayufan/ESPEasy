@@ -388,6 +388,8 @@ To create/register a plugin, you have to :
     #define USES_P059   // Encoder
 
     #define USES_P063   // TTP229_KeyPad
+
+    #define USES_P097   // ADC RMS
 #endif
 
 
@@ -403,6 +405,7 @@ To create/register a plugin, you have to :
     #define USES_C009   // FHEM HTTP
     #define USES_C010   // Generic UDP
     #define USES_C013   // ESPEasy P2P network
+    #define USES_P097   // ADC RMS
 #endif
 
 
